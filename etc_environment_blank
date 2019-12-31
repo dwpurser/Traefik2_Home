@@ -1,0 +1,24 @@
+PATH="/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games"
+
+#User Info
+USERDIR="/home/<username>"
+EMAIL="<email>"
+
+#Traefik
+HTTP_USERNAME=
+HTTP_PASSWORD=
+DOMAINNAME=
+
+#Cloudflare
+CLOUDFLARE_EMAIL=
+CLOUDFLARE_API_KEY=
+
+#MongoDb
+MONGO_USER="<user>"
+MONGO_PASS="<password>"
+
+#MYSQL
+PUID=1000
+PGID=1000
+TZ="America/New_York"
+MYSQL_ROOT_PASSWORD="<password>"
